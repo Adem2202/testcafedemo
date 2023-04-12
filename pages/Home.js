@@ -19,3 +19,5 @@ class Home{
 }
 
 export default new Home();
+
+///balu mahendra code
